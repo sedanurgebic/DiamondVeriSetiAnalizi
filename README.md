@@ -1,1 +1,1 @@
-# DiamondVeriSetiAnalizi
+# DiamondsVeriSetiAnalizi
